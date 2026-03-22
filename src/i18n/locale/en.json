@@ -232,6 +232,7 @@
   "components.Collections.FormSections.noTags": "No tags available on this server.",
   "components.Collections.FormSections.noVisibilityCollectionWarning": "No visibility options selected. Collection will only appear in library tab.",
   "components.Collections.FormSections.noVisibilityHubWarning": "No visibility options selected. Hub will be completely hidden.",
+  "components.Collections.FormSections.notOperator": "NOT",
   "components.Collections.FormSections.numberOfDays": "Number of Days",
   "components.Collections.FormSections.orOperator": "OR",
   "components.Collections.FormSections.originalsProvider": "Streaming Service",
